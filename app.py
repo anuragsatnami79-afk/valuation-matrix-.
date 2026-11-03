@@ -409,5 +409,5 @@ def calculate_free_cash_flow(
     nopat = ebit - taxes
 
     free_cash_flow = ()
-        nopat
+    nopat
         + depreciation + depreciation
